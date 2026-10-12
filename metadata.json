@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Limpieza RM - Limpieza Profunda con Vapor",
+  "description": "Limpieza profunda y sanitización con vapor a domicilio en la Región Metropolitana: sillones, colchones, alfombras, autos, baños y cocinas. Sin recargo en la Provincia de Santiago. Agenda por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
